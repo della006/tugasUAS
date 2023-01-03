@@ -4,7 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context="com.note.activity.MainActivity">
+    tools:context="com.kikunote.activity.MainActivity">
 
     <include
         android:id="@+id/toolbar"
@@ -39,4 +39,5 @@
         android:clickable="true"
         android:contentDescription="@string/add_notes"
         android:src="@drawable/ic_round_add" />
+
 </RelativeLayout>

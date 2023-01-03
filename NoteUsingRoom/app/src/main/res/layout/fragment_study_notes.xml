@@ -10,7 +10,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_centerInParent="true"
-        android:text="Note kosong"
+        android:text="Note is empty"
         android:textColor="@color/background"
         android:textSize="25sp"
         android:textStyle="bold"
@@ -20,6 +20,6 @@
         android:id="@+id/rv_study"
         android:layout_width="match_parent"
         android:layout_height="match_parent"
-        tools:listitem="@layout/list_items" />
+        tools:listitem="@layout/list_item" />
 
 </RelativeLayout>
